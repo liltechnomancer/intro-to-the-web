@@ -14,6 +14,8 @@ This tutorial is meant to equip you with the bare essentials for learning web de
 
 It will serve as a jumping off point for future tutorials, where you will explore these concepts in much more detail. 
 
+![Code Button](./code_button.png)
+
 For now begin by clicking the "Code" button on this web page and clicking "Download ZIP" Then unpackage and move that zip file to the folder you want to keep this project in. 
 
 If you are unsure of how to unpack a zip file google `how to unpack a zip file ${OPERATING_SYSTEM}` but replace `${OPERATING_SYSTEM}` with mac or windows or whatever you use. 
@@ -34,7 +36,9 @@ Once you have VSCode, you can open it and will see a screen like this.
 
 Click open and navigate to the folder you downloaded earlier. 
 
+You should end up with something like this. 
 
+![Open Project](./open_project.png)
 
 
 
