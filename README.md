@@ -41,4 +41,58 @@ You should end up with something like this.
 ![Open Project](./open_project.png)
 
 
+### Intro to HTML
+
+Create a new file by hovering the project name in the side bar and clicking the plus button over a little file. 
+
+![Add File](./add_file.png)
+
+Name this file `index.html`, you should end up with something like this. 
+
+![Empty HMTL](./empty_html.png)
+
+Type just a `!` into this file which should prompt the editor to want to complete something for you. 
+
+![Emmet](./emmet.png)
+
+Hit enter and your editor should poop out a bunch of HTML. Ignore all this for now, you need it but it is not important to try and understand at this moment. 
+
+For now just focus on the `<body></body>` part. 
+
+This is called a tag, specifically this is the body tag. 
+
+![Body Tag](./body_tag.png)
+
+This is where we will start working, because in the `body` tag is where everything you see on a website goes. 
+
+We will start by writing a "Hello World" in HTML
+
+> A "hello world" is a common program meant to demonstrate the simplest task possible in a programming language. 
+
+A hello world in html would be using a `heading` tag to display some text. 
+
+There are six heading tags, so they are numbered. We will use the `h1` tag. 
+
+`<h1>Hello dorks</h1>`
+
+We need to add this inside the body tag. 
+
+```
+<body>
+  <h1>hello dorks</h1>
+</body>
+```
+
+You will notice we indented it one level. This is how you format HTML to show `h1` is a `child` of `body`
+
+Now you can open this file in the browser, on mac you can do this by right clicking the file, clicking reveal in Finder, and then double clicking it. Other operating systems (like windows) should have a similiar option. 
+
+![reveal in finder](./reveal_in_finder.png)
+
+After that your computer should open a browser window in your default browser to your file. It should look like this. 
+
+Congratulations, you just completed the first of many "Hello Worlds" you will encounter on this journey. Go have a drink, you earned it. 
+
+Next we will learn about CSS. 
+
 
